@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **h0livier/h0livier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://github-readme-stats.vercel.app/api?username=h0livier&count_private=true&show_icons=true&theme=dark" align="center">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h0livier&layout=compact&langs_count=8&theme=algolia" align="center">
