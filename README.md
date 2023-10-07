@@ -30,7 +30,9 @@ Feel free to use every codes on public repositories, it's nice if it helps you ð
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0livier&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <a href="https://github-readme-stats.vercel.app/api/top-langs?username=h0livier&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0livier&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2"  />
+  </a>
 </div>
 
 ###
