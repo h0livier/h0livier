@@ -1,19 +1,36 @@
+# Hello there 👋
 
-<!--
-**h0livier/h0livier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+I'm Olivier, a young DevOps / Software Developer.<br>
+Just trying to share cool projects that help me automate my daily work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=h0livier&count_private=true&show_icons=true&theme=github_dark" align="center">
-<!--<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h0livier&layout=compact&langs_count=8&theme=algolia" align="center">-->
-</p>
+Feel free to use every codes on public repositories, it's nice if it helps you 🙂
+
+####
+
+## About me
+
+☁️ Currently working on setting up my own cloud !<br>
+🔭 Interested in new technologies <br>
+📖 Loves to share my knowledge
+
+###
+
+## How to reach me ?
+
+- Here on my github !
+- On Linkedin (link in profile)
+- By mail (olivier.hayot.dev@gmail.com)</p>
+
+###
+
+## What I practice the most
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0livier&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
