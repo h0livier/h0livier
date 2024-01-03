@@ -13,13 +13,13 @@ Feel free to use every codes on public repositories, it's nice if it helps you �
 
 ☁️ Currently working on setting up my own cloud !<br>
 🔭 Interested in new technologies <br>
-📖 Loves to share my knowledge
+📖 Loves to make project templates
 
 ###
 
 ## How to reach me ?
 
-- Here on my github !
+- Here, on github !
 - On Linkedin (link in profile)
 - By mail (olivier.hayot.dev@gmail.com)</p>
 
