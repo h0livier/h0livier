@@ -5,8 +5,6 @@
 I'm Olivier, a young DevOps / Software Developer.<br>
 Just trying to share cool projects that help me automate my daily work.
 
-Feel free to use every codes on public repositories, it's nice if it helps you 🙂
-
 ####
 
 ## About me
