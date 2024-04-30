@@ -11,7 +11,7 @@ Just trying to share cool projects that help me automate my daily work.
 
 ☁️ Currently working on setting up my own cloud !<br>
 🔭 Interested in new technologies <br>
-📖 Loves to make project templates
+📖 Loves to make reusable projects
 
 ###
 
