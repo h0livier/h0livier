@@ -29,3 +29,9 @@ Just trying to share cool projects that help me automate my daily work.
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h0livier&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" />
   </a>
 </div>
+
+## Current Certifications
+
+<a href="https://learn.microsoft.com/api/credentials/share/fr-fr/OlivierHayot-3879/959D372E9B54FE26?sharingId=F6F8F4EC39C38103" target="_blank">
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1999319323/9a132d12-47a7-4c8e-8954-27fe0e5f0a1d12569602178324077995.png" alt="Certification Badge" width="100px"/>
+</a>
