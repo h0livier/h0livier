@@ -11,10 +11,9 @@ Just trying to share cool projects that help me automate my daily work.
 
 ## How to reach me ?
 
-- Here, on github !
 - On [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
 - By [Email](mailto:olivier.hayot.dev@gmail.com)
-- On [my Website](www.olivierhayot.be)
+- On [my Website](https://www.olivierhayot.be)
 
 ## My Technos
 | Category | Technos |
