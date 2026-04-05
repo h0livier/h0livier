@@ -1,6 +1,6 @@
 # Hello there 👋
 
-I'm Olivier, a DevOps / Software Developer.  
+I'm Olivier, a **Software Developer** / **DevOps**.  
 Just trying to share cool projects that help me automate my daily work.
 
 ## About me
