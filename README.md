@@ -1,28 +1,29 @@
 # Hello there 👋
 
-I'm Olivier, a DevOps / Software Developer.<br>
+I'm Olivier, a DevOps / Software Developer.  
 Just trying to share cool projects that help me automate my daily work.
 
 ## About me
 
-☁️ Currently working on setting up my own cloud !<br>
-🔭 Interested in new technologies <br>
+☁️ Currently working on setting up my own cloud !  
+🔭 Interested in new technologies  
 📖 Loves to make reusable projects
 
 ## How to reach me ?
 
 - Here, on github !
-- On Linkedin (link in profile)
-- By mail (olivier.hayot.dev@gmail.com)</p>
+- On [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
+- By [Email](mailto:olivier.hayot.dev@gmail.com)
+- On [my Website](www.olivierhayot.be)
 
 ## My Technos
 | Category | Technos |
 |---------|---------------|
 | Programming Languages | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)  |
-| Frontend Frameworks | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) 	[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) |
-| Backend Frameworks | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) |
+| Frontend Frameworks | [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#) 	[![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#) [![DaisyUI](https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff)](#) |
+| Backend Frameworks | [![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)](#) [![Strapi](https://img.shields.io/badge/Strapi-%232E7EEA.svg?logo=strapi&logoColor=white)](#) |
 | Databases | [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white) [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#) |
-| Tools | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) |
+| Tools | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
 | Cloud & IaC | [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) |
 
 ## Current Certifications
