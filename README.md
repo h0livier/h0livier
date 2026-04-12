@@ -28,5 +28,8 @@ Just trying to share cool projects that help me automate my daily work.
 ## Current Certifications
 
 <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/OlivierHayot-3879/959D372E9B54FE26?sharingId=F6F8F4EC39C38103" target="_blank">
-  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1999319323/9a132d12-47a7-4c8e-8954-27fe0e5f0a1d12569602178324077995.png" alt="Certification Badge" width="100px"/>
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1999319323/9a132d12-47a7-4c8e-8954-27fe0e5f0a1d12569602178324077995.png" alt="Github Copilot GH-300 Certification Badge" width="100px"/>
+</a>
+<a href="#">
+  <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1256144051/d0da6cb2-8edb-438f-b6b2-abaf0acf6f0b11682161235118687450.png" alt="Terraform associate 004 Certification Badge" width="100px" />
 </a>
