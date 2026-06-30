@@ -19,7 +19,7 @@ This GitHub is where I share personal projects, experiments, and tools that solv
 - [My Website](https://www.olivierhayot.be)
 - [olivier.hayot.dev@gmail.com](mailto:olivier.hayot.dev@gmail.com)
 
-## My Technos
+## Tech Stack
 | Category | Technos |
 |---------|---------------|
 | Programming Languages | [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)  [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)  |
@@ -29,7 +29,7 @@ This GitHub is where I share personal projects, experiments, and tools that solv
 | Tools | [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)  [![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](#) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) |
 | Cloud & IaC | [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#) [![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)](#) |
 
-## Current Certifications
+## Certifications
 
 <p>
   <a href="https://learn.microsoft.com/api/credentials/share/fr-fr/OlivierHayot-3879/959D372E9B54FE26?sharingId=F6F8F4EC39C38103" target="_blank">
