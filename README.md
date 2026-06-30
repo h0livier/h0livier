@@ -1,19 +1,20 @@
-# Hello there 👋
+# Hi there 👋
 
-I'm Olivier, a **Software Developer** / **DevOps**.  
-Just trying to share cool projects that help me automate my daily work.
+I'm Olivier, a Software Developer with a strong focus on DevOps, Cloud, and Automation.
+I enjoy building reliable, reusable solutions that simplify development workflows and automate everyday tasks. This GitHub is where I share personal projects, experiments, and tools that solve real-world problems.
 
 ## About me
 
-☁️ Currently working on setting up my own cloud !  
-🔭 Interested in new technologies  
-📖 Loves to make reusable projects
+☁️ Building and managing my own self-hosted cloud infrastructure. 
+🔭 Interested about DevOps, automation, and infrastructure as code. 
+💡 Always exploring new technologies and modern development practices. 
+📦 Creating reusable and maintainable projects. 
 
 ## How to reach me ?
 
-- On [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
-- By [Email](mailto:olivier.hayot.dev@gmail.com)
-- On [my Website](https://www.olivierhayot.be)
+- [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
+- [olivier.hayot.dev@gmail.com](mailto:olivier.hayot.dev@gmail.com)
+- [My Website](https://www.olivierhayot.be)
 
 ## My Technos
 | Category | Technos |
