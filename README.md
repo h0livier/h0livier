@@ -16,7 +16,7 @@ This GitHub is where I share personal projects, experiments, and tools that solv
 ## Connect with me
 
 - [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
-- [My Website](https://www.olivierhayot.be)
+- [Website](https://cv.olivierhayot.be)
 - [olivier.hayot.dev@gmail.com](mailto:olivier.hayot.dev@gmail.com)
 
 ## Tech Stack
