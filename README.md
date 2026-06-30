@@ -1,14 +1,17 @@
 # Hi there 👋
 
 I'm Olivier, a Software Developer with a strong focus on DevOps, Cloud, and Automation.
-I enjoy building reliable, reusable solutions that simplify development workflows and automate everyday tasks. This GitHub is where I share personal projects, experiments, and tools that solve real-world problems.
+
+I enjoy building reliable, reusable solutions that simplify development workflows and automate everyday tasks. 
+
+This GitHub is where I share personal projects, experiments, and tools that solve real-world problems.
 
 ## About me
 
-☁️ Building and managing my own self-hosted cloud infrastructure. 
-🔭 Interested about DevOps, automation, and infrastructure as code. 
-💡 Always exploring new technologies and modern development practices. 
-📦 Creating reusable and maintainable projects. 
+- ☁️ Building and managing my own self-hosted cloud infrastructure. 
+- 🔭 Interested about DevOps, automation, and infrastructure as code. 
+- 💡 Always exploring new technologies and modern development practices. 
+- 📦 Creating reusable and maintainable projects. 
 
 ## How to reach me ?
 
