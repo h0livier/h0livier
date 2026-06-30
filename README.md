@@ -13,11 +13,11 @@ This GitHub is where I share personal projects, experiments, and tools that solv
 - 💡 Always exploring new technologies and modern development practices. 
 - 📦 Creating reusable and maintainable projects. 
 
-## How to reach me ?
+## Connect with me
 
 - [Linkedin](https://www.linkedin.com/in/olivier-hayot/)
-- [olivier.hayot.dev@gmail.com](mailto:olivier.hayot.dev@gmail.com)
 - [My Website](https://www.olivierhayot.be)
+- [olivier.hayot.dev@gmail.com](mailto:olivier.hayot.dev@gmail.com)
 
 ## My Technos
 | Category | Technos |
