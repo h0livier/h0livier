@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Olivier, a **Software Developer** with a strong focus on **DevOps**, **Cloud**, and **Automation**.
+I'm **Olivier**, a **Software Developer** with a strong focus on **DevOps**, **Cloud**, and **Automation**.
 
 I enjoy building reliable, reusable solutions that simplify development workflows and automate everyday tasks. 
 
